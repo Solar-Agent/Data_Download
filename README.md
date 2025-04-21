@@ -44,8 +44,8 @@ df.to_csv("data.csv", index=False)
 
 ## 결과 예시
 
-ssr: 실제 구름 조건의 일사량 (J/m²)
-ssrc: 맑은 하늘 기준 일사량 (J/m²)
+- `ssr`: 실제 구름 조건의 일사량 (J/m²)
+- `ssrc`: 맑은 하늘 기준 일사량 (J/m²)
 
 ```
  valid_time_kst        ssr          ssrc
